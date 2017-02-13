@@ -29,10 +29,10 @@ c. How to run our code?
 d. A sample output would be:
 
 Hello World: Enter 1 or 2 or 3 to test Part 1 or 2 or 3: 
-> 1
+1
 Hello World: Part1; Enter 1 or 2 or 3 or 4 or 5 to test each small problem: 
-> 1
+1
 Hello World: Enter a string to test: (a sample input would be ab or abb)
-> ab
+ab
 For this string: ab, the result is: 
-> 1
+1
