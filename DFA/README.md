@@ -10,8 +10,8 @@ Contributor: Wenyi Chu && Xiaoyu Zheng<br>
 
 
 a. Collaborators:<br>
-	Wenyi Chu <wchu6@u.rochester.edu>	<br>
-	Xiaoyu Zheng <xzheng10@u.rochester.edu> <br>
+	Wenyi Chu <wchu6>	<br>
+	Xiaoyu Zheng <xzheng10> <br>
 
 b. How to build your project:<br>
 	We used “dfa.h” “nfa.h” ”IntSet.c” from the sample code offered by Professor Ferguson.<br>
