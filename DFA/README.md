@@ -12,8 +12,7 @@ How to build your project:
 
 How to run our code?
 Download our zip file and navigate it to the folder in the terminal.<br>
-> Make 
-and then follow the procedures
+> Make
 
 
 Sample output:
